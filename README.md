@@ -1,1 +1,5 @@
 [Estructuras de datos fundamentales](https://docs.google.com/presentation/d/14pGiO7ehipCSRzrRgJCaM2J7mesngz5AIEvn5eh3o5k/edit?usp=sharing)
+[Listas ligadas](https://docs.google.com/presentation/d/14pGiO7ehipCSRzrRgJCaM2J7mesngz5AIEvn5eh3o5k/edit?usp=sharing)
+[Pilas y colas](https://docs.google.com/presentation/d/14pGiO7ehipCSRzrRgJCaM2J7mesngz5AIEvn5eh3o5k/edit?usp=sharing)
+[Arboles](https://docs.google.com/presentation/d/14pGiO7ehipCSRzrRgJCaM2J7mesngz5AIEvn5eh3o5k/edit?usp=sharing)
+[Grafos](https://docs.google.com/presentation/d/14pGiO7ehipCSRzrRgJCaM2J7mesngz5AIEvn5eh3o5k/edit?usp=sharing)
