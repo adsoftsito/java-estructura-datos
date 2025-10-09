@@ -24,7 +24,7 @@ public void processGrades()
 // output grades array
 outputGrades();
 // call method getAverage to calculate the average grade
-System.out.printf("%nClass average is %.2f%n", getAverage() );
+System.out.printf("%n Class average is %.2f%n", getAverage() );
 // call methods getMinimum and getMaximum
 System.out.printf("Lowest grade is %d%nHighest grade is %d%n%n",
 getMinimum() , getMaximum() );
